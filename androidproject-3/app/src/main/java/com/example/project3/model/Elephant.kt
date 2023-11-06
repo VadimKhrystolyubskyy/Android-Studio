@@ -1,0 +1,1 @@
+data class Elephant(val name: String, val imageResId: Int, val description: String)
